@@ -1,2 +1,40 @@
 * {
-}
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+ }
+ 
+ body {
+     border: 20px solid #5caee4;
+     padding: 20px;
+     margin: 20px auto;
+     width: 85%;
+     font-family: 'Times New Roman', Times, serifs;
+     font-size: 20px;
+ }
+    
+ .date {
+     color: teal;
+     text-transform: uppercase;
+     letter-spacing: 0.5rem;
+ }
+ 
+ .post h2 {
+     font-size: 1rem;
+     font-weight: bold;
+     color: blue;
+     padding-bottom: 1rem;
+ }
+ 
+ .post .qouter{
+     border-left: 5px solid blueviolet;
+     padding-left: 5px;
+ }
+ 
+ .post-info {
+     margin-top: 1rem;
+ }
+                                           
+ .post {
+     margin-bottom: 1rem;
+ }
